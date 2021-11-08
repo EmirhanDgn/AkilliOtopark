@@ -6,3 +6,6 @@
 *.css linguist-detectable=false
 *.arduino linguist-detectable=true
 *.c++ linguist-detectable=false
+
+* linguist-vendored
+*.c++ linguist-vendored=false
