@@ -5,4 +5,4 @@
 *.xml linguist-detectable=false
 *.css linguist-detectable=false
 *.arduino linguist-detectable=true
-*.c++ linguist-detectable=true
+*.c++ linguist-detectable=false
